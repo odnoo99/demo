@@ -1,0 +1,52 @@
+{
+  "name": "platinum-travel-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+<<<<<<< HEAD
+    "dev": "webpack",
+=======
+>>>>>>> da36379207e6642b541130348d93200321dbe798
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+<<<<<<< HEAD
+    "url": "git+https://github.com/onlinevideotraining1234/platinum-travel-site-files.git"
+=======
+    "url": "git+ssh://git@github.com/odnoo99/platinum-travel-site.git"
+>>>>>>> da36379207e6642b541130348d93200321dbe798
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+<<<<<<< HEAD
+    "url": "https://github.com/onlinevideotraining1234/platinum-travel-site-files/issues"
+  },
+  "homepage": "https://github.com/onlinevideotraining1234/platinum-travel-site-files#readme",
+  "dependencies": {
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.20",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.1.0",
+    "css-loader": "^5.0.1",
+    "postcss-loader": "^3.0.0",
+    "postcss-nested": "^5.0.3",
+    "postcss-simple-vars": "^6.0.2",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.2.0"
+=======
+    "url": "https://github.com/odnoo99/platinum-travel-site/issues"
+  },
+  "homepage": "https://github.com/odnoo99/platinum-travel-site#readme",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "normalize.css": "^8.0.1"
+>>>>>>> da36379207e6642b541130348d93200321dbe798
+  }
+}

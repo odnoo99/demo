@@ -1,0 +1,8 @@
+node_modules/
+<<<<<<< HEAD
+Thumbs.db
+=======
+thumbs.db
+>>>>>>> da36379207e6642b541130348d93200321dbe798
+*.log
+.cache
